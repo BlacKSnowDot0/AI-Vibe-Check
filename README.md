@@ -15,7 +15,7 @@ This repository is a **self-updating dashboard** that tracks the emotional state
 
 Every 8 hours, a GitHub Action wakes up and:
 1.  **Scrapes** the top headlines from Hacker News, r/programming, r/ArtificialIntelligence, and Dev.to.
-2.  **Feeds** the chaos into a cynical AI (Llama 3 via Groq).
+2.  **Feeds** the chaos into a cynical AI.
 3.  **Calculates** a "Developer Anxiety Index" (0-100).
 4.  **Generates** a snarky commentary and updates the SVG dashboard above.
 
