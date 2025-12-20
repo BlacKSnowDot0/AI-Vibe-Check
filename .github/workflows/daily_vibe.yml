@@ -32,6 +32,10 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
-          git add vibe.svg
-          git commit -m "Update Daily Vibe Check" || exit 0
+          
+          # Add both the SVG and the History JSON
+          git add vibe.svg history.json
+          
+          # Only commit if there are changes
+          git commit -m "Update Vibe & History" || exit 0
           git push
