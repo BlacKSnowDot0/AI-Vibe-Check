@@ -73,8 +73,8 @@ def analyze_vibe(text_data):
     Return JSON: {{ "score": int, "vibe": "string", "color": "hex" }}
     """
 
-    completion = client.chat.completions.create(s
-        model="openai/gpt-oss-120bs", 
+    completion = client.chat.completions.create(
+        model="openai/gpt-oss-120b", 
         messages=[{"role": "user", "content": prompt}],
         temperature=0.7,
         response_format={"type": "json_object"}
@@ -137,4 +137,5 @@ if __name__ == "__main__":
         full_text = "No news today."
 
     ai_response = analyze_vibe(full_text)
+
     update_svg(ai_response)
