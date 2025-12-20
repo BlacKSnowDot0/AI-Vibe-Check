@@ -1,0 +1,26 @@
+<svg width="600" height="270" viewBox="0 0 600 270" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Main Background -->
+    <rect width="600" height="270" rx="15" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+
+    <!-- Title -->
+    <text x="30" y="50" fill="#E6EDF3" font-family="Segoe UI, Helvetica, sans-serif" font-weight="bold" font-size="24">Daily AI Vibe Check</text>
+    <text x="570" y="50" fill="#8B949E" font-family="Segoe UI, Helvetica, sans-serif" font-size="14" text-anchor="end">2025-12-20</text>
+
+    <!-- Anxiety Bar Background -->
+    <rect x="30" y="80" width="540" height="20" rx="10" fill="#21262D"/>
+
+    <!-- Anxiety Bar Fill -->
+    <rect x="30" y="80" width="313.2" height="20" rx="10" fill="#FFA500"/>
+
+    <!-- Score Text -->
+    <text x="30" y="130" fill="#FFA500" font-family="Segoe UI, Helvetica, sans-serif" font-weight="bold" font-size="40">58%</text>
+    <text x="140" y="125" fill="#8B949E" font-family="Segoe UI, Helvetica, sans-serif" font-size="16">Internet Anxiety Level</text>
+
+    <!-- Quote Box (Taller now) -->
+    <rect x="30" y="160" width="540" height="80" rx="8" fill="#161B22" stroke="#FFA500" stroke-opacity="0.3"/>
+
+    <!-- The Text Container - Note the ID and empty content -->
+    <text x="50" y="190" fill="#C9D1D9" font-family="Courier New, monospace" font-size="14" font-style="italic">
+        <tspan x="50" dy="0">"Another day of AI hype, minor security scares, and a</tspan><tspan x="50" dy="1.4em">nostalgic reminder that my code still compiles—joy."</tspan>
+    </text>
+</svg>
