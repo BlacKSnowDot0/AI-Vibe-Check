@@ -27,6 +27,6 @@
     <!-- Quote Box -->
     <rect x="30" y="170" width="540" height="80" rx="8" fill="#161B22" stroke="#FF0000" stroke-opacity="0.3"/>
     <text x="50" y="200" fill="#C9D1D9" font-family="Courier New, monospace" font-size="14" font-style="italic">
-        <tspan x="50" dy="0">"More AI panic and buzzwords, another CLI torrent</tspan><tspan x="50" dy="1.4em">tool—because we needed more ways to break things from</tspan><tspan x="50" dy="1.4em">the terminal."</tspan>
+        <tspan x="50" dy="0">"Another day, another AI hype cycle—test suites still</tspan><tspan x="50" dy="1.4em">break, and 'technical debt' is just a management</tspan><tspan x="50" dy="1.4em">excuse."</tspan>
     </text>
 </svg>
