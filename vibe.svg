@@ -27,6 +27,6 @@
     <!-- Quote Box -->
     <rect x="30" y="170" width="540" height="80" rx="8" fill="#161B22" stroke="#FF0000" stroke-opacity="0.3"/>
     <text x="50" y="200" fill="#C9D1D9" font-family="Courier New, monospace" font-size="14" font-style="italic">
-        <tspan x="50" dy="0">"Another year of buzzwords, lottery scripts, and</tspan><tspan x="50" dy="1.4em">misguided hype—just what we needed to keep the devs</tspan><tspan x="50" dy="1.4em">awake at night."</tspan>
+        <tspan x="50" dy="0">"Another day of hype, half‑baked open‑source miracles,</tspan><tspan x="50" dy="1.4em">and a side of geopolitical drama—just what we needed to</tspan><tspan x="50" dy="1.4em">keep the dev‑burnout meter ticking."</tspan>
     </text>
 </svg>
