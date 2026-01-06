@@ -12,21 +12,21 @@
     <text x="570" y="110" fill="#8B949E" font-family="Segoe UI, Helvetica, sans-serif" font-size="10" text-anchor="end">7-DAY TREND</text>
 
     <!-- The Graph Line -->
-    <polyline points="450.0,63.8 470.0,63.8 490.0,63.8 510.0,63.8 530.0,70.2 550.0,63.8 570.0,63.8" fill="none" stroke="#FF0000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="450.0,63.8 470.0,63.8 490.0,63.8 510.0,63.8 530.0,70.2 550.0,63.8 570.0,71.8" fill="none" stroke="#FFA500" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 
     <!-- Anxiety Bar Background -->
     <rect x="30" y="100" width="400" height="20" rx="10" fill="#21262D"/>
 
     <!-- Anxiety Bar Fill -->
-    <rect x="30" y="100" width="312.0" height="20" rx="10" fill="#FF0000"/>
+    <rect x="30" y="100" width="231.99999999999997" height="20" rx="10" fill="#FFA500"/>
 
     <!-- Score Text -->
-    <text x="30" y="150" fill="#FF0000" font-family="Segoe UI, Helvetica, sans-serif" font-weight="bold" font-size="40">78%</text>
+    <text x="30" y="150" fill="#FFA500" font-family="Segoe UI, Helvetica, sans-serif" font-weight="bold" font-size="40">58%</text>
     <text x="140" y="145" fill="#8B949E" font-family="Segoe UI, Helvetica, sans-serif" font-size="16">Internet Anxiety Level</text>
 
     <!-- Quote Box -->
-    <rect x="30" y="170" width="540" height="80" rx="8" fill="#161B22" stroke="#FF0000" stroke-opacity="0.3"/>
+    <rect x="30" y="170" width="540" height="80" rx="8" fill="#161B22" stroke="#FFA500" stroke-opacity="0.3"/>
     <text x="50" y="200" fill="#C9D1D9" font-family="Courier New, monospace" font-size="14" font-style="italic">
-        <tspan x="50" dy="0">"Another batch of hype‑driven headlines; if I/O isn’t</tspan><tspan x="50" dy="1.4em">the bottleneck, my sanity is."</tspan>
+        <tspan x="50" dy="0">"Another round of buzzwords and vanity projects—if only</tspan><tspan x="50" dy="1.4em">we had time to fix the actual bugs, not chase every</tspan><tspan x="50" dy="1.4em">shiny headline."</tspan>
     </text>
 </svg>
