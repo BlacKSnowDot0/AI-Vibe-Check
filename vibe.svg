@@ -27,6 +27,6 @@
     <!-- Quote Box -->
     <rect x="30" y="170" width="540" height="80" rx="8" fill="#161B22" stroke="#FF0000" stroke-opacity="0.3"/>
     <text x="50" y="200" fill="#C9D1D9" font-family="Courier New, monospace" font-size="14" font-style="italic">
-        <tspan x="50" dy="0">"Another day, another hype cycle—satellite pics, AI</tspan><tspan x="50" dy="1.4em">takeover rumors, and yet another Rust rewrite. My</tspan><tspan x="50" dy="1.4em">coffee's the only thing not crashing."</tspan>
+        <tspan x="50" dy="0">"AI benchmarks tank, security leaks to ChatGPT, and the</tspan><tspan x="50" dy="1.4em">weather satellite finally works—welcome to another week</tspan><tspan x="50" dy="1.4em">of hype‑induced firefighting."</tspan>
     </text>
 </svg>
