@@ -27,6 +27,6 @@
     <!-- Quote Box -->
     <rect x="30" y="170" width="540" height="80" rx="8" fill="#161B22" stroke="#FF0000" stroke-opacity="0.3"/>
     <text x="50" y="200" fill="#C9D1D9" font-family="Courier New, monospace" font-size="14" font-style="italic">
-        <tspan x="50" dy="0">"Another round of hype‑driven buzz, half‑baked</tspan><tspan x="50" dy="1.4em">Rust‑Swift fan‑fiction and AI‑obsessed press releases.</tspan><tspan x="50" dy="1.4em">Brace for another sprint of feature‑creep."</tspan>
+        <tspan x="50" dy="0">"Another day of carrier GPS snooping, AI hype, and</tspan><tspan x="50" dy="1.4em">self‑referential Reddit rants—brace for endless tickets</tspan><tspan x="50" dy="1.4em">and zero ROI."</tspan>
     </text>
 </svg>
