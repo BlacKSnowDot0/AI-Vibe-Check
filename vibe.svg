@@ -27,6 +27,6 @@
     <!-- Quote Box -->
     <rect x="30" y="170" width="540" height="80" rx="8" fill="#161B22" stroke="#FF0000" stroke-opacity="0.3"/>
     <text x="50" y="200" fill="#C9D1D9" font-family="Courier New, monospace" font-size="14" font-style="italic">
-        <tspan x="50" dy="0">"More fluff than code, another floppy OS and a React</tspan><tspan x="50" dy="1.4em">gold fountain—panic mode engaged."</tspan>
+        <tspan x="50" dy="0">"Another batch of hype‑driven tools and security</tspan><tspan x="50" dy="1.4em">scares—if we keep adding agents, we'll need a therapist</tspan><tspan x="50" dy="1.4em">for the infra team."</tspan>
     </text>
 </svg>
