@@ -27,6 +27,6 @@
     <!-- Quote Box -->
     <rect x="30" y="170" width="540" height="80" rx="8" fill="#161B22" stroke="#FF0000" stroke-opacity="0.3"/>
     <text x="50" y="200" fill="#C9D1D9" font-family="Courier New, monospace" font-size="14" font-style="italic">
-        <tspan x="50" dy="0">"Another round of AI hype, hardware vanity projects,</tspan><tspan x="50" dy="1.4em">and rewrite panic—just what the devs needed to keep the</tspan><tspan x="50" dy="1.4em">coffee flowing."</tspan>
+        <tspan x="50" dy="0">"Another batch of AI‑fluff and hobby‑hardware hype;</tspan><tspan x="50" dy="1.4em">expect another sprint of broken prototypes and endless</tspan><tspan x="50" dy="1.4em">feature creep."</tspan>
     </text>
 </svg>
