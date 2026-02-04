@@ -27,6 +27,6 @@
     <!-- Quote Box -->
     <rect x="30" y="170" width="540" height="80" rx="8" fill="#161B22" stroke="#FF0000" stroke-opacity="0.3"/>
     <text x="50" y="200" fill="#C9D1D9" font-family="Courier New, monospace" font-size="14" font-style="italic">
-        <tspan x="50" dy="0">"Another batch of AI‑fluff and hobby‑hardware hype;</tspan><tspan x="50" dy="1.4em">expect another sprint of broken prototypes and endless</tspan><tspan x="50" dy="1.4em">feature creep."</tspan>
+        <tspan x="50" dy="0">"Another day, another buzzword carousel—AI agents</tspan><tspan x="50" dy="1.4em">forming religions, PDF forensics, and yet another</tspan><tspan x="50" dy="1.4em">'Voxtral' that will probably break on the first</tspan><tspan x="50" dy="1.4em">upgrade."</tspan>
     </text>
 </svg>
