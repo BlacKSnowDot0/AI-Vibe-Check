@@ -27,6 +27,6 @@
     <!-- Quote Box -->
     <rect x="30" y="170" width="540" height="80" rx="8" fill="#161B22" stroke="#FF0000" stroke-opacity="0.3"/>
     <text x="50" y="200" fill="#C9D1D9" font-family="Courier New, monospace" font-size="14" font-style="italic">
-        <tspan x="50" dy="0">"Agents everywhere, cache bloat, tiny AI in</tspan><tspan x="50" dy="1.4em">silicon—just another reminder we’re building</tspan><tspan x="50" dy="1.4em">sandcastles on a moving platform."</tspan>
+        <tspan x="50" dy="0">"Another day of hype‑driven rewrites, AI “yes‑men”, and</tspan><tspan x="50" dy="1.4em">teams dying under GitHub Actions. Brace for the next</tspan><tspan x="50" dy="1.4em">“open‑world N64” crisis."</tspan>
     </text>
 </svg>
